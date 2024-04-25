@@ -1,0 +1,12 @@
+// Configurações para o Visual Studio Code para o projeto
+{
+  /* Configurações para arquivos .py (código Python)
+   * Estas configurações serão aplicadas aos arquivos com a extenção .py.
+   */
+  "[python]": {
+    // Formatador Python
+    "editor.defaultFormatter": "ms-python.autopep8",
+    // Formatar ao salvar
+    "editor.formatOnSave": true
+  }
+}
